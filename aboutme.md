@@ -4,12 +4,15 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Jihye Ryu. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I can play the piano
+- I can dance (well not really good)
+- I am quite good at cooking
+- I am cute (Hope so)
 
-What else do you need?
+This is a picture of me
+![2017-08-15-19-49-53](https://user-images.githubusercontent.com/49367190/60647644-190ca000-9e79-11e9-9103-428474509bc2.jpg)
 
 ### my history
 
