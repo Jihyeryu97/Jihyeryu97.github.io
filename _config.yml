@@ -1,4 +1,6 @@
 # --- General options --- #
+require_once 'protect.php';
+Protect\with('form.php', 'my_password');
 
 # Name of website
 title: My website
